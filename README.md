@@ -1,1 +1,1 @@
-# Logicmojo-DSA-Course-Oct25-chhaunkar
+# DSA-logic-Oct25-chhaunkar
