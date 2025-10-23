@@ -1,3 +1,6 @@
+// TC: O(n)
+// SC: O(1)
+
 function rain_water(height) {
     let left = 0;
     let right = height.length - 1;
