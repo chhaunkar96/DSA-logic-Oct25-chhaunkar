@@ -8,3 +8,4 @@
 5. [Move Zeroes problem](/Array/Move%20Zeroes%20problem.js)
 6. [Sort an array of 0, 1, 2](/Array/Sort%20an%20array%20of%200_1_2.js)
 7. [Container with most water problems](/Array/container_with_most_water_problems.js)
+8. [Trapping rain water problem]()
