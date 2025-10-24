@@ -9,3 +9,5 @@
 6. [Sort an array of 0, 1, 2](/Array/Sort%20an%20array%20of%200_1_2.js) [#912](https://leetcode.com/problems/sort-an-array/description/)
 7. [Container with most water problems](/Array/container_with_most_water_problems.js) [#11](https://leetcode.com/problems/container-with-most-water)
 8. [Trapping rain water problem](/Array/trapping_rain_water_problem.js) [#42](https://leetcode.com/problems/trapping-rain-water/description/)
+9. [Binary Search example](/Array/binarySearch.md) [#704](https://leetcode.com/problems/binary-search/)
+10. [Sorting Bubble, Insertion](/Array/array_sorting.js)
